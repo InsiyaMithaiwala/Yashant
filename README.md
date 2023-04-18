@@ -13,6 +13,8 @@ https://yashant.000webhostapp.com/
 YOUTUBE LINK:
 https://youtu.be/idIJ4x_tnQM
 
+linkedin link:
+https://www.linkedin.com/pulse/yashant-adding-payment-gateway-website-insiya-mithaiwala
 
 Preview of the payment gateway
 
